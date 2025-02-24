@@ -52,7 +52,8 @@ The simulation shows the particles moving inside a beam pipe, and when they coll
 <br>
 <br>
 
-![3D Simulation](3D%20simulation%20pic.jpg)
+![3D Simulation](3D%20animation/3D%simulation%pic.jpg)
+
 <br>
 <br>
 

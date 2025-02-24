@@ -49,6 +49,12 @@ The main simulation loop continuously updates particle positions, checks for col
 ## Example
 Simulation Output
 The simulation shows the particles moving inside a beam pipe, and when they collide, they produce sparks and shockwaves. The heads-up display (HUD) on the top-left shows information about the current number of particles, collisions, and energy in the system.
+<br>
+<br>
+
+![3D Simulation](3D%20simulation%20pic.jpg)
+<br>
+<br>
 
 ## Future Improvements
 - Particle Types: Add more particle types with different properties (e.g., electrons, neutrinos).
